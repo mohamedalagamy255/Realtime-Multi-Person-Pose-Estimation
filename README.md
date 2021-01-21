@@ -1,2 +1,2 @@
-# ppo
-RL_agent_ping_pong
+# Realtime Multi-Person Pose Estimation
+
